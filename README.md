@@ -1,0 +1,1 @@
+This is a website consisting of a main index page with a few links to recipe. It is a basic design. 
